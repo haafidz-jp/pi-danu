@@ -33,12 +33,12 @@
 	</div>
 	<header>
 		<div class="container">
-			<h1><a href="index.html">Bagus Danukusumo</a></h1>
+			<h1><a href="index.php">Bagus Danukusumo</a></h1>
 			<ul>
-			<li><a href="index.html">HOME</a></li>
-				<li><a href="about.html">ABOUT</a></li>
-				<li><a href="galery.html">GALERY</a></li>
-				<li><a href="contact.html">CONTACT</a></li>
+			<li><a href="index.php">HOME</a></li>
+				<li><a href="about.php">ABOUT</a></li>
+				<li><a href="galery.php">GALERY</a></li>
+				<li><a href="contact.php">CONTACT</a></li>
 				<li class="active"><a href="tes.php">FORM PENDAFTARAN</a></li>
 			</ul>
 		</div>
